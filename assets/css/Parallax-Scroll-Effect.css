@@ -1,0 +1,19 @@
+#box-1 {
+  height: 25vh;
+  width: 100%;
+  background-image: url("Material/ggggggggggggggggggggggggggggggggggggggggggggg.png");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: arial black;
+  font-size: 50px;
+  color: white;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+

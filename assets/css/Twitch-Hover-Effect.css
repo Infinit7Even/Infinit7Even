@@ -1,0 +1,15 @@
+.twitch-hover, .twitch-hover img {
+  transition: 0.2s;
+}
+
+.twitch-hover:hover img {
+  transform: translateX(0.5rem) translateY(-0.5rem);
+  box-shadow: -1px 1px 1px #1ed760, -2px 2px 1px #1ed760, -3px 3px 1px #1ed760, -4px 4px 1px #1ed760, -5px 5px 1px #1ed760, -6px 6px 1px #1ed760, -7px 7px 1px #1ed760, -8px 8px 1px #1ed760;
+}
+
+.twitch-hover {
+  background-color: #1ed760;
+  max-width: -webkit-fit-content;
+  max-height: -webkit-fit-content;
+}
+
