@@ -1,5 +1,4 @@
 # Hi there, i'm **Seven** 👋
-Cinematography nerd and 80s spy.Synthwave listener.
 
 ### 📚 My website
 [![preview](https://github.com/Infinit7Even/Infinit7Even/blob/master/assets/img/Preview.jpeg)](https://infinit7even.xyz/)
